@@ -1,4 +1,5 @@
-const planets = ["mercury", "venus", "earth", "mars", "jupiter", "saturn", "uranus", "neptune"]
+const planets = ["mercury", "venus", "earth", "mars", "jupiter", "saturn", "uranus", "neptune", 
+"pluto"]
 
 /*
     Use the forEach method to add the name of each planet
